@@ -193,7 +193,7 @@ Follow the steps below to run **RoamNest – Full Stack Travel Listing Platform*
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/prachi757/RoamNest.git
+git https://github.com/nithingowda17/RoamNest.git
 cd MAJORPROJECT
 
 ### 2️⃣ Install Dependencies
