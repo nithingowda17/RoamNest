@@ -11,7 +11,7 @@ This project is developed as a **Major Full Stack Project** to demonstrate real-
 👉 https://roamnest.onrender.com
 
 ## 📂 GitHub Repository
-👉 https://github.com/prachi757/RoamNest
+👉https://github.com/nithingowda17/RoamNest
 
 ---
 
@@ -268,11 +268,6 @@ http://localhost:8080/listings
 
 ---
 
-## 👩‍💻 Author
-
-**Prachi Garg**  
-- GitHub: https://github.com/prachi757  
-- LinkedIn: https://www.linkedin.com/in/prachi-garg-679477291/  
 
 ---
 
